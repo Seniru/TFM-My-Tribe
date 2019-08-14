@@ -1,0 +1,4 @@
+target/*
+dist/tfm_tribe.jar
+nbproject/
+info.properties

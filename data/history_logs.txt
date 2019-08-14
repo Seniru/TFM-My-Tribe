@@ -1,0 +1,519 @@
+1562858042000:Mr_cat_man#4694 a quitté la tribu.
+1561653414000:Youssef#2991 a quitté la tribu.
+1561545994000:Klaus#4786 a quitté la tribu.
+1561545985000:Klaus#4786 a changé le rang de Klaus#4786 vers My Life.
+1561545985000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Leader.
+1561538601000:Mohamed#0805 a quitté la tribu.
+1561401378000:Kakashe#3232 a quitté la tribu.
+1561234998000:Lord_pr0#0000 a quitté la tribu.
+1561228475000:Anmedgad#0000 a quitté la tribu.
+1561213778000:Sondossoso12#0000 a quitté la tribu.
+1561188837000:Sondossoso12#0000 a rejoint la tribu.
+1561150399000:Khaled123#4126 a quitté la tribu.
+1561146664000:Janaaaaaaaa#0000 a quitté la tribu.
+1561136303000:Mr_cat_man#4694 a rejoint la tribu.
+1561120064000:Youssef#2991 a rejoint la tribu.
+1561074143000:Adelxd#7064 a quitté la tribu.
+1561048184000:Thirdyoussef#0000 a quitté la tribu.
+1561038796000:Kanarypro#9477 a quitté la tribu.
+1560967356000:Asaif#0000 a quitté la tribu.
+1560945895000:Khaled123#4126 a rejoint la tribu.
+1560932460000:Klaus#4786 a changé le rang de Mohamed#0805 vers Senior Mamber.
+1560932083000:Klaus#4786 a changé le message d'accueil.
+1560932082000:Klaus#4786 a changé le message d'accueil.
+1560932082000:Klaus#4786 a changé le message d'accueil.
+1560932082000:Klaus#4786 a changé le message d'accueil.
+1560932078000:Klaus#4786 a changé le message d'accueil.
+1560932078000:Klaus#4786 a changé le message d'accueil.
+1560932077000:Klaus#4786 a changé le message d'accueil.
+1560932074000:Klaus#4786 a changé le message d'accueil.
+1560932074000:Klaus#4786 a changé le message d'accueil.
+1560932066000:Klaus#4786 a changé le message d'accueil.
+1560932066000:Klaus#4786 a changé le message d'accueil.
+1560932065000:Klaus#4786 a changé le message d'accueil.
+1560932055000:Klaus#4786 a changé le message d'accueil.
+1560932054000:Klaus#4786 a changé le message d'accueil.
+1560890385000:Mafia#5746 a quitté la tribu.
+1560886267000:Janaaaaaaaa#0000 a changé le rang de Mafia#5746 vers Senior Mamber.
+1560886263000:Janaaaaaaaa#0000 a changé le rang de Thirdyoussef#0000 vers Steward.
+1560886258000:Janaaaaaaaa#0000 a changé le rang de Kanarypro#9477 vers Agent.
+1560886247000:Janaaaaaaaa#0000 a changé le rang de Hiba456#6914 vers Follower.
+1560886219000:Kanarypro#9477 a rejoint la tribu.
+1560885881000:Mafia#5746 a rejoint la tribu.
+1560864342000:Casber#2345 a quitté la tribu.
+1560864312000:Qwisst#7146 a quitté la tribu.
+1560847821000:Klaus#4786 a changé le message d'accueil.
+1560847792000:Klaus#4786 a changé le rang de Casber#2345 vers Deputy Leader.
+1560847784000:Casber#2345 a rejoint la tribu.
+1560843649000:Lgnd8#4133 a rejoint la tribu.
+1560840448000:Qwisst#7146 a rejoint la tribu.
+1560840055000:Kakashe#3232 a rejoint la tribu.
+1560820014000:Klaus#4786 a exclu Dodo_pro#1794 de la tribu.
+1560818337000:Zaid_00#0000 a rejoint la tribu.
+1560818292000:Mouhamed7#5371 a rejoint la tribu.
+1560818183000:Asaif#0000 a rejoint la tribu.
+1560818015000:Adelxd#7064 a rejoint la tribu.
+1560817958000:Dodo_pro#1794 a rejoint la tribu.
+1560816565000:Klaus#4786 a changé le rang de Joumanajoum#0000 vers new.
+1560816559000:Klaus#4786 a changé le rang de Max#4412 vers new.
+1560816556000:Klaus#4786 a changé le rang de Hiba456#6914 vers new.
+1560816553000:Klaus#4786 a changé le rang de Hossambi#0000 vers new.
+1560816548000:Klaus#4786 a changé le rang de Rania2002#0000 vers new.
+1560816545000:Klaus#4786 a changé le rang de Meh7rez#6913 vers new.
+1560816542000:Klaus#4786 a changé le rang de Improdz#0000 vers new.
+1560816539000:Klaus#4786 a changé le rang de Shinigami#3887 vers new.
+1560816535000:Klaus#4786 a changé le rang de Lord_pr0#0000 vers new.
+1560816530000:Klaus#4786 a changé le rang de Mahamadq#0000 vers new.
+1560816526000:Klaus#4786 a changé le rang de Farah_dz#9365 vers new.
+1560816521000:Klaus#4786 a changé le rang de Mohamed#0805 vers new.
+1560816516000:Klaus#4786 a changé le rang de Thirdyoussef#0000 vers new.
+1560816209000:Klaus#4786 a changé le code de la maison de tribu : @0
+1560815979000:Klaus#4786 a changé le code de la maison de tribu : @5257185
+1560800086000:Janaaaaaaaa#0000 a changé le rang de Hiba456#6914 vers Follower.
+1560798706000:Janaaaaaaaa#0000 a changé le rang de Meh7rez#6913 vers Steward.
+1560798131000:Meh7rez#6913 a rejoint la tribu.
+1560785017000:Hiba456#6914 a rejoint la tribu.
+1560784821000:Mahmoud29#6963 a rejoint la tribu.
+1560784801000:Esraasosoo#9358 a rejoint la tribu.
+1560782568000:Klaus#4786 a changé le message d'accueil.
+1560782567000:Klaus#4786 a changé le message d'accueil.
+1560782119000:Klaus#4786 a changé le message d'accueil.
+1560782119000:Klaus#4786 a changé le message d'accueil.
+1560774927000:Janaaaaaaaa#0000 a changé le rang de Rania2002#0000 vers Steward.
+1560774920000:Janaaaaaaaa#0000 a changé le rang de Improdz#0000 vers Steward.
+1560774915000:Janaaaaaaaa#0000 a changé le rang de Shinigami#3887 vers Supervisor.
+1560774877000:Rania2002#0000 a rejoint la tribu.
+1560774832000:Improdz#0000 a rejoint la tribu.
+1560774815000:Shinigami#3887 a rejoint la tribu.
+1560774435000:Janaaaaaaaa#0000 a changé le rang de Thirdyoussef#0000 vers Steward.
+1560774423000:Thirdyoussef#0000 a rejoint la tribu.
+1560774265000:Anmedgad#0000 a changé le code de la maison de tribu : @5258133
+1560774008000:Anmedgad#0000 a changé le message d'accueil.
+1560773835000:Anmedgad#0000 a changé le rang de Mohamed#0805 vers Senior Mamber.
+1560773791000:Mohamed#0805 a rejoint la tribu.
+1560773475000:Anmedgad#0000 a changé le message d'accueil.
+1560773415000:Anmedgad#0000 a changé le message d'accueil.
+1560773402000:Anmedgad#0000 a changé le message d'accueil.
+1560773376000:Janaaaaaaaa#0000 a changé le rang de Hossambi#0000 vers Agent.
+1560772935000:Anmedgad#0000 a changé le message d'accueil.
+1560772362000:Anmedgad#0000 a changé le message d'accueil.
+1560772029000:Hossambi#0000 a rejoint la tribu.
+1560755543000:Klaus#4786 a changé le message d'accueil.
+1561653414000:Youssef#2991 a quitté la tribu.
+1561545994000:Klaus#4786 a quitté la tribu.
+1561545985000:Klaus#4786 a changé le rang de Klaus#4786 vers My Life.
+1561545985000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Leader.
+1561538601000:Mohamed#0805 a quitté la tribu.
+1561401378000:Kakashe#3232 a quitté la tribu.
+1561234998000:Lord_pr0#0000 a quitté la tribu.
+1561228475000:Anmedgad#0000 a quitté la tribu.
+1561213778000:Sondossoso12#0000 a quitté la tribu.
+1561188837000:Sondossoso12#0000 a rejoint la tribu.
+1561150399000:Khaled123#4126 a quitté la tribu.
+1561146664000:Janaaaaaaaa#0000 a quitté la tribu.
+1561136303000:Mr_cat_man#4694 a rejoint la tribu.
+1561120064000:Youssef#2991 a rejoint la tribu.
+1561074143000:Adelxd#7064 a quitté la tribu.
+1561048184000:Thirdyoussef#0000 a quitté la tribu.
+1561038796000:Kanarypro#9477 a quitté la tribu.
+1560967356000:Asaif#0000 a quitté la tribu.
+1560945895000:Khaled123#4126 a rejoint la tribu.
+1560932460000:Klaus#4786 a changé le rang de Mohamed#0805 vers Senior Mamber.
+1560932083000:Klaus#4786 a changé le message d'accueil.
+1560932082000:Klaus#4786 a changé le message d'accueil.
+1560932082000:Klaus#4786 a changé le message d'accueil.
+1560932082000:Klaus#4786 a changé le message d'accueil.
+1560932078000:Klaus#4786 a changé le message d'accueil.
+1560932078000:Klaus#4786 a changé le message d'accueil.
+1560932077000:Klaus#4786 a changé le message d'accueil.
+1560932074000:Klaus#4786 a changé le message d'accueil.
+1560932074000:Klaus#4786 a changé le message d'accueil.
+1560932066000:Klaus#4786 a changé le message d'accueil.
+1560932066000:Klaus#4786 a changé le message d'accueil.
+1560932065000:Klaus#4786 a changé le message d'accueil.
+1560932055000:Klaus#4786 a changé le message d'accueil.
+1560932054000:Klaus#4786 a changé le message d'accueil.
+1560890385000:Mafia#5746 a quitté la tribu.
+1560886267000:Janaaaaaaaa#0000 a changé le rang de Mafia#5746 vers Senior Mamber.
+1560886263000:Janaaaaaaaa#0000 a changé le rang de Thirdyoussef#0000 vers Steward.
+1560886258000:Janaaaaaaaa#0000 a changé le rang de Kanarypro#9477 vers Agent.
+1560886247000:Janaaaaaaaa#0000 a changé le rang de Hiba456#6914 vers Follower.
+1560886219000:Kanarypro#9477 a rejoint la tribu.
+1560885881000:Mafia#5746 a rejoint la tribu.
+1560864342000:Casber#2345 a quitté la tribu.
+1560864312000:Qwisst#7146 a quitté la tribu.
+1560847821000:Klaus#4786 a changé le message d'accueil.
+1560847792000:Klaus#4786 a changé le rang de Casber#2345 vers Deputy Leader.
+1560847784000:Casber#2345 a rejoint la tribu.
+1560843649000:Lgnd8#4133 a rejoint la tribu.
+1560840448000:Qwisst#7146 a rejoint la tribu.
+1560840055000:Kakashe#3232 a rejoint la tribu.
+1560820014000:Klaus#4786 a exclu Dodo_pro#1794 de la tribu.
+1560818337000:Zaid_00#0000 a rejoint la tribu.
+1560818292000:Mouhamed7#5371 a rejoint la tribu.
+1560818183000:Asaif#0000 a rejoint la tribu.
+1560818015000:Adelxd#7064 a rejoint la tribu.
+1560817958000:Dodo_pro#1794 a rejoint la tribu.
+1560816565000:Klaus#4786 a changé le rang de Joumanajoum#0000 vers new.
+1560816559000:Klaus#4786 a changé le rang de Max#4412 vers new.
+1560816556000:Klaus#4786 a changé le rang de Hiba456#6914 vers new.
+1560816553000:Klaus#4786 a changé le rang de Hossambi#0000 vers new.
+1560816548000:Klaus#4786 a changé le rang de Rania2002#0000 vers new.
+1560816545000:Klaus#4786 a changé le rang de Meh7rez#6913 vers new.
+1560816542000:Klaus#4786 a changé le rang de Improdz#0000 vers new.
+1560816539000:Klaus#4786 a changé le rang de Shinigami#3887 vers new.
+1560816535000:Klaus#4786 a changé le rang de Lord_pr0#0000 vers new.
+1560816530000:Klaus#4786 a changé le rang de Mahamadq#0000 vers new.
+1560816526000:Klaus#4786 a changé le rang de Farah_dz#9365 vers new.
+1560816521000:Klaus#4786 a changé le rang de Mohamed#0805 vers new.
+1560816516000:Klaus#4786 a changé le rang de Thirdyoussef#0000 vers new.
+1560816209000:Klaus#4786 a changé le code de la maison de tribu : @0
+1560815979000:Klaus#4786 a changé le code de la maison de tribu : @5257185
+1560800086000:Janaaaaaaaa#0000 a changé le rang de Hiba456#6914 vers Follower.
+1560798706000:Janaaaaaaaa#0000 a changé le rang de Meh7rez#6913 vers Steward.
+1560798131000:Meh7rez#6913 a rejoint la tribu.
+1560785017000:Hiba456#6914 a rejoint la tribu.
+1560784821000:Mahmoud29#6963 a rejoint la tribu.
+1560784801000:Esraasosoo#9358 a rejoint la tribu.
+1560782568000:Klaus#4786 a changé le message d'accueil.
+1560782567000:Klaus#4786 a changé le message d'accueil.
+1560782119000:Klaus#4786 a changé le message d'accueil.
+1560782119000:Klaus#4786 a changé le message d'accueil.
+1560774927000:Janaaaaaaaa#0000 a changé le rang de Rania2002#0000 vers Steward.
+1560774920000:Janaaaaaaaa#0000 a changé le rang de Improdz#0000 vers Steward.
+1560774915000:Janaaaaaaaa#0000 a changé le rang de Shinigami#3887 vers Supervisor.
+1560774877000:Rania2002#0000 a rejoint la tribu.
+1560774832000:Improdz#0000 a rejoint la tribu.
+1560774815000:Shinigami#3887 a rejoint la tribu.
+1560774435000:Janaaaaaaaa#0000 a changé le rang de Thirdyoussef#0000 vers Steward.
+1560774423000:Thirdyoussef#0000 a rejoint la tribu.
+1560774265000:Anmedgad#0000 a changé le code de la maison de tribu : @5258133
+1560774008000:Anmedgad#0000 a changé le message d'accueil.
+1560773835000:Anmedgad#0000 a changé le rang de Mohamed#0805 vers Senior Mamber.
+1560773791000:Mohamed#0805 a rejoint la tribu.
+1560773475000:Anmedgad#0000 a changé le message d'accueil.
+1560773415000:Anmedgad#0000 a changé le message d'accueil.
+1560773402000:Anmedgad#0000 a changé le message d'accueil.
+1560773376000:Janaaaaaaaa#0000 a changé le rang de Hossambi#0000 vers Agent.
+1560772935000:Anmedgad#0000 a changé le message d'accueil.
+1560772362000:Anmedgad#0000 a changé le message d'accueil.
+1560772029000:Hossambi#0000 a rejoint la tribu.
+1560755543000:Klaus#4786 a changé le message d'accueil.
+1560755457000:Klaus#4786 a changé le rang de Farah_dz#9365 vers Honorary Deputy.
+1560755305000:Klaus#4786 a changé le rang de Anmedgad#0000 vers Deputy Leader.
+1560755297000:Anmedgad#0000 a rejoint la tribu.
+1560753117000:Klaus#4786 a changé le code de la maison de tribu : @0
+1560752659000:Klaus#4786 a changé le code de la maison de tribu : @7476796
+1560752609000:Klaus#4786 a changé le code de la maison de tribu : @7459345
+1560752586000:Klaus#4786 a changé le code de la maison de tribu : @7503178
+1560752523000:Klaus#4786 a changé le code de la maison de tribu : @7565258
+1560752404000:Klaus#4786 a changé le code de la maison de tribu : @7568009
+1560752362000:Klaus#4786 a changé le code de la maison de tribu : @7504694
+1560752308000:Klaus#4786 a changé le code de la maison de tribu : @7457988
+1560752243000:Klaus#4786 a changé le code de la maison de tribu : @7452634
+1560705768000:Janaaaaaaaa#0000 a exclu Smerhaidee#0000 de la tribu.
+1560705742000:Janaaaaaaaa#0000 a changé le rang de Smerhaidee#0000 vers Deputy Leader.
+1560674474000:Sosomaporita#0000 a quitté la tribu.
+1560664121000:Hlokte#0000 a quitté la tribu.
+1560663646000:Hlokte#0000 a rejoint la tribu.
+1560642992000:Klaus#4786 a changé le rang de Sosomaporita#0000 vers Follower.
+1560641410000:Sosomaporita#0000 a rejoint la tribu.
+1560619463000:Klaus#4786 a changé le message d'accueil.
+1560619218000:Janaaaaaaaa#0000 a changé le rang de Smerhaidee#0000 vers Supervisor.
+1560619204000:Smerhaidee#0000 a rejoint la tribu.
+1560615920000:Barbi14#3152 a quitté la tribu.
+1560615784000:Klaus#4786 a changé le message d'accueil.
+1560615758000:Janaaaaaaaa#0000 a changé le rang de Barbi14#3152 vers Manger.
+1560615742000:Barbi14#3152 a rejoint la tribu.
+1560615685000:Klaus#4786 a changé le rang de Janaaaaaaaa#0000 vers My Life.
+1560615593000:Klaus#4786 a changé le rang de Janaaaaaaaa#0000 vers Deputy Leader.
+1560615587000:Janaaaaaaaa#0000 a rejoint la tribu.
+1560543079000:Klaus#4786 a changé le rang de Lord_pr0#0000 vers Manger.
+1560543069000:Lord_pr0#0000 a rejoint la tribu.
+1560541475000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Honorary Deputy.
+1560541470000:Klaus#4786 a changé le rang de Farah_dz#9365 vers Deputy Leader.
+1560481778000:Klaus#4786 a changé le message d'accueil.
+1560481777000:Klaus#4786 a changé le message d'accueil.
+1560478574000:Klaus#4786 a changé le rang de Max#4412 vers Follower.
+1560478545000:Max#4412 a rejoint la tribu.
+1560456826000:Malak122#0000 a quitté la tribu.
+1560085875000:Klaus#4786 a changé le message d'accueil.
+1560077057000:Klaus#4786 a changé le message d'accueil.
+1559838590000:Mr_king_btoosh#8633 a quitté la tribu.
+1557667871000:Klaus#4786 a changé le message d'accueil.
+1557667501000:Klaus#4786 a changé le rang de Joumanajoum#0000 vers Senior Mamber.
+1557667469000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Manger.
+1557667458000:Klaus#4786 a changé le rang de Farah_dz#9365 vers Honorary Deputy.
+1557666980000:Klaus#4786 a changé le rang de Farah_dz#9365 vers warn.
+1557666975000:Klaus#4786 a changé le rang de Mahamadq#0000 vers warn.
+1557666963000:Klaus#4786 a changé le rang de Khaledbobo#0000 vers warn.
+1557666959000:Klaus#4786 a changé le rang de Tota1120#0000 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Num1ber#3310 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Roo_roo#0686 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Heavenforeva#0000 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Omar24#4317 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Mr_king_btoosh#8633 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Joumanajoum#0000 vers warn.
+1557666957000:Klaus#4786 a changé le rang de Soundous_24#2020 vers warn.
+1557587057000:Klaus#4786 a changé le message d'accueil.
+1557586726000:Klaus#4786 a changé le message d'accueil.
+1557583055000:Klaus#4786 a changé le message d'accueil.
+1557497803000:Klaus#4786 a changé le message d'accueil.
+1557494293000:Klaus#4786 a changé le message d'accueil.
+1557494280000:Klaus#4786 a changé le message d'accueil.
+1557494251000:Klaus#4786 a changé le message d'accueil.
+1557494187000:Klaus#4786 a changé le message d'accueil.
+1557448715000:Pro_hamza#2264 a quitté la tribu.
+1557076316000:Klaus#4786 a changé le rang de Pro_hamza#2264 vers Mamber I.
+1556903179000:Zxcv803#0000 a quitté la tribu.
+1556879826000:Klaus#4786 a changé le rang de Heavenforeva#0000 vers mamber.
+1556879820000:Klaus#4786 a changé le rang de Roo_roo#0686 vers mamber.
+1556879815000:Klaus#4786 a changé le rang de Mr_king_btoosh#8633 vers mamber.
+1556879812000:Klaus#4786 a changé le rang de Pro_hamza#2264 vers mamber.
+1556879809000:Klaus#4786 a changé le rang de Omar24#4317 vers mamber.
+1556879805000:Klaus#4786 a changé le rang de Num1ber#3310 vers mamber.
+1556877766000:Klaus#4786 a changé le rang de Soundous_24#2020 vers mamber.
+1556877754000:Soundous_24#2020 a rejoint la tribu.
+1556875955000:Klaus#4786 a changé le rang de Joumanajoum#0000 vers mamber.
+1556875730000:Joumanajoum#0000 a rejoint la tribu.
+1556875403000:Klaus#4786 a changé le message d'accueil.
+1556870347000:Adem7452#0711 a quitté la tribu.
+1556869721000:Klaus#4786 a changé le rang de Khaledbobo#0000 vers Mamber II.
+1556869672000:Klaus#4786 a changé le rang de Adem7452#0711 vers Mamber II.
+1556869665000:Adem7452#0711 a rejoint la tribu.
+1556869631000:Klaus#4786 a changé le rang de Khaledbobo#0000 vers Mamber IIV.
+1556869619000:Khaledbobo#0000 a rejoint la tribu.
+1556859269000:Klaus#4786 a changé le rang de Zxcv803#0000 vers Mamber II.
+1556859069000:Zxcv803#0000 a rejoint la tribu.
+1556858035000:Klaus#4786 a changé le message d'accueil.
+1556826321000:Turnado#0672 a quitté la tribu.
+1556815619000:Sico#0241 a quitté la tribu.
+1556812471000:Klaus#4786 a changé le rang de Turnado#0672 vers Mamber I.
+1556806208000:Klaus#4786 a changé le rang de Farah_dz#9365 vers Friend All.
+1556806118000:Klaus#4786 a changé le rang de Farah_dz#9365 vers Miss.
+1556739156000:Badnarutoo#0000 a quitté la tribu.
+1556739067000:Badnarutoo#0000 a rejoint la tribu.
+1556714628000:Turnado#0672 a rejoint la tribu.
+1556714618000:Klaus#4786 a changé le message d'accueil.
+1556714403000:Klaus#4786 a changé le message d'accueil.
+1556714291000:Turnado#0672 a quitté la tribu.
+1556712741000:Klaus#4786 a changé le message d'accueil.
+1556712523000:Klaus#4786 a changé le message d'accueil.
+1556711447000:Klaus#4786 a changé le message d'accueil.
+1556711387000:Farah_dz#9365 a rejoint la tribu.
+1556711344000:Turnado#0672 a rejoint la tribu.
+1556710953000:Klaus#4786 a changé le message d'accueil.
+1556710936000:Klaus#4786 a changé le rang de Malak122#0000 vers Friend the leader.
+1556710931000:Malak122#0000 a rejoint la tribu.
+1556710324000:Klaus#4786 a changé le message d'accueil.
+1556710232000:Klaus#4786 a exclu Caporia#3132 de la tribu.
+1556703137000:Klaus#4786 a changé le rang de Caporia#3132 vers Friend the leader.
+1556631388000:Turnado#0672 a quitté la tribu.
+1556484453000:Devil_eyes#0000 a quitté la tribu.
+1556477372000:Activersl#0000 a quitté la tribu.
+1556461616000:Sico#0241 a rejoint la tribu.
+1556308716000:Sico#0241 a quitté la tribu.
+1556233254000:Klaus#4786 a changé le rang de Devil_eyes#0000 vers Master.
+1556216773000:Hinazuky_kayu#0648 a quitté la tribu.
+1556215637000:Reddragon#2489 a quitté la tribu.
+1556187945000:Spashail2#1475 a quitté la tribu.
+1556132564000:Roo_roo#0686 a rejoint la tribu.
+1556094640000:Spashail2#1475 a changé le rang de Reddragon#2489 vers Mamber I.
+1556094619000:Reddragon#2489 a rejoint la tribu.
+1555927486000:Temsa7#0378 a quitté la tribu.
+1555876243000:Temsa7#0378 a rejoint la tribu.
+1555785860000:Num1ber#3310 a rejoint la tribu.
+1555603431000:Klaus#4786 a changé le rang de Tota1120#0000 vers Mamber I.
+1555537720000:Xhunterro#0367 a quitté la tribu.
+1555535493000:Omarjokerx#0000 a quitté la tribu.
+1555533635000:Kirito#4601 a quitté la tribu.
+1555525335000:Zxcv803#0000 a quitté la tribu.
+1555524487000:Kirito#4601 a rejoint la tribu.
+1555524228000:Spashail2#1475 a changé le rang de Devil_eyes#0000 vers Miss.
+1555524105000:Zxcv803#0000 a rejoint la tribu.
+1555524101000:Devil_eyes#0000 a rejoint la tribu.
+1555523979000:Spashail2#1475 a changé le rang de Hinazuky_kayu#0648 vers Mamber II.
+1555523914000:Hinazuky_kayu#0648 a rejoint la tribu.
+1555509896000:Klaus#4786 a changé le rang de Sico#0241 vers Mamber I.
+1555509847000:Pro_hamza#2264 a rejoint la tribu.
+1555498336000:Romaalaaa#0000 a quitté la tribu.
+1555496116000:Adel_dola#8357 a quitté la tribu.
+1555493911000:Omarjokerx#0000 a rejoint la tribu.
+1555456309000:Keroools#3627 a quitté la tribu.
+1555442910000:Mahmoudarfat#3125 a quitté la tribu.
+1555442027000:Ahmed1#7348 a quitté la tribu.
+1555432910000:D3s#2684 a quitté la tribu.
+1555427999000:Bidobido123#0000 a quitté la tribu.
+1555417043000:Klaus#4786 a changé le message d'accueil.
+1555417005000:Klaus#4786 a changé le message d'accueil.
+1555416689000:Klaus#4786 a changé le message d'accueil.
+1555416689000:Klaus#4786 a changé le message d'accueil.
+1555416688000:Klaus#4786 a changé le message d'accueil.
+1555416688000:Klaus#4786 a changé le message d'accueil.
+1555413543000:Orle1#0000 a quitté la tribu.
+1555412992000:Klaus#4786 a changé le rang de Bidobido123#0000 vers Mamber I.
+1555412970000:Klaus#4786 a changé le rang de Caporia#3132 vers Friend All.
+1555412883000:Ninja_pro#9343 a quitté la tribu.
+1555412868000:Ahmed150#4968 a quitté la tribu.
+1555412839000:Ninja_pro#9343 a rejoint la tribu.
+1555412829000:Ahmed150#4968 a rejoint la tribu.
+1555412058000:Omar24#4317 a rejoint la tribu.
+1555411549000:Yoya1#0000 a quitté la tribu.
+1555411517000:Adel_dola#8357 a rejoint la tribu.
+1555411510000:Yoya1#0000 a rejoint la tribu.
+1555411133000:Mahmoudarfat#3125 a rejoint la tribu.
+1555410980000:Orle1#0000 a rejoint la tribu.
+1555410727000:Peklics#0000 a quitté la tribu.
+1555410617000:D3s#2684 a rejoint la tribu.
+1555410475000:Bidobido123#0000 a rejoint la tribu.
+1555410292000:Xhunterro#0367 a rejoint la tribu.
+1555409465000:Activersl#0000 a rejoint la tribu.
+1555409436000:Romaalaaa#0000 a rejoint la tribu.
+1555409137000:Heavenforeva#0000 a rejoint la tribu.
+1555409018000:Peklics#0000 a rejoint la tribu.
+1555408393000:Turnado#0672 a rejoint la tribu.
+1555376177000:Keroools#3627 a rejoint la tribu.
+1555374908000:Tota1120#0000 a rejoint la tribu.
+1555361287000:Sico#0241 a rejoint la tribu.
+1555360196000:Klaus#4786 a changé le message d'accueil.
+1555360165000:Klaus#4786 a changé le message d'accueil.
+1555360017000:Ahmed1#7348 a rejoint la tribu.
+1555359920000:Mr_king_btoosh#8633 a rejoint la tribu.
+1555359232000:Klaus#4786 a changé le rang de Caporia#3132 vers Master.
+1555359220000:Caporia#3132 a rejoint la tribu.
+1555359149000:Klaus#4786 a changé le message d'accueil.
+1555358071000:Klaus#4786 a changé le rang de Spashail2#1475 vers Friend the leader.
+1555357985000:Spashail2#1475 a rejoint la tribu.
+1555357675000:Klaus#4786 a changé le message d'accueil.
+1555356885000:Klaus#4786 a changé le message d'accueil.
+1555356050000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Master.
+1555356034000:Mahamadq#0000 a changé le rang de Klaus#4786 vers Leader.
+1555356034000:Mahamadq#0000 a changé le rang de Mahamadq#0000 vers Friend the leader.
+1555356027000:Klaus#4786 a rejoint la tribu.
+1555355999000:Mahamadq#0000 a exclu Penta_kill#1467 de la tribu.
+1555355997000:Mahamadq#0000 a exclu Tota1120#0000 de la tribu.
+1555355996000:Mahamadq#0000 a exclu Khaled654#3526 de la tribu.
+1555355994000:Mahamadq#0000 a exclu You159753#0000 de la tribu.
+1555355784000:Mahamadq#0000 a changé le message d'accueil.
+1548755897000:Klaus#4786 a quitté la tribu.
+1548755892000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Admin.
+1548755892000:Klaus#4786 a changé le rang de Klaus#4786 vers Co admin.
+1544367854000:Wwwmbyybm#0000 a quitté la tribu.
+1542799550000:Leprinceee#0000 a quitté la tribu.
+1542675192000:Klaus#4786 a changé le rang de Leprinceee#0000 vers team funny.
+1542674830000:Klaus#4786 a changé le rang de Leprinceee#0000 vers Good.
+1542674818000:Leprinceee#0000 a rejoint la tribu.
+1541751821000:Klaus#4786 a changé le rang de You159753#0000 vers making maps.
+1541751810000:Klaus#4786 a changé le rang de Khaled654#3526 vers Good.
+1541751803000:Klaus#4786 a changé le rang de Tota1120#0000 vers team funny.
+1541751796000:Klaus#4786 a changé le rang de Penta_kill#1467 vers Good.
+1541751781000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Co admin.
+1541751747000:Klaus#4786 a changé le message d'accueil.
+1541751747000:Klaus#4786 a changé le message d'accueil.
+1541751747000:Klaus#4786 a changé le message d'accueil.
+1541751731000:Klaus#4786 a changé le message d'accueil.
+1541751652000:Klaus#4786 a changé le message d'accueil.
+1541751621000:Klaus#4786 a changé le message d'accueil.
+1541014270000:Klaus#4786 a changé le rang de Wwwmbyybm#0000 vers making maps.
+1541014249000:Wwwmbyybm#0000 a rejoint la tribu.
+1540976188000:Best_sohaib#5836 a quitté la tribu.
+1540080479000:Nonyana#0000 a quitté la tribu.
+1539627228000:Xhunterro#0000 a quitté la tribu.
+1539612105000:Xhunterro#0000 a rejoint la tribu.
+1538778122000:Penta_kill#1467 a rejoint la tribu.
+1538777514000:Klaus#4786 a changé le rang de Nonyana#0000 vers My love.
+1538777507000:Klaus#4786 a changé le message d'accueil.
+1538777480000:Nonyana#0000 a rejoint la tribu.
+1537448182000:Sarsonh4#0000 a quitté la tribu.
+1537093753000:Klaus#4786 a changé le message d'accueil.
+1536950560000:Pablo_escobar#0371 a quitté la tribu.
+1536949798000:Klaus#4786 a changé le rang de Pablo_escobar#0371 vers team funny.
+1536949793000:Pablo_escobar#0371 a rejoint la tribu.
+1536949755000:Klaus#4786 a changé le rang de Best_sohaib#5836 vers team funny.
+1536949724000:Best_sohaib#5836 a rejoint la tribu.
+1536925440000:Klaus#4786 a changé le message d'accueil.
+1536853167000:Klaus#4786 a changé le message d'accueil.
+1536839518000:Khaled654#3526 a rejoint la tribu.
+1536835521000:Yasine11#0000 a quitté la tribu.
+1536832666000:Klaus#4786 a changé le message d'accueil.
+1536832656000:Klaus#4786 a changé le message d'accueil.
+1536832633000:Klaus#4786 a changé le message d'accueil.
+1536832615000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Helping.
+1536832603000:Mahamadq#0000 a changé le rang de Mahamadq#0000 vers Moderator.
+1536832603000:Mahamadq#0000 a changé le rang de Klaus#4786 vers Admin.
+1536832591000:Klaus#4786 a rejoint la tribu.
+1536822556000:Klaus#4786 a quitté la tribu.
+1536822552000:Klaus#4786 a changé le rang de Mahamadq#0000 vers Admin.
+1536822552000:Klaus#4786 a changé le rang de Klaus#4786 vers Moderator.
+1536822542000:Klaus#4786 a changé le message d'accueil.
+1536822524000:Mahamadq#0000 a rejoint la tribu.
+1536822345000:Klaus#4786 a changé le message d'accueil.
+1536822329000:Klaus#4786 a changé le message d'accueil.
+1536818574000:Bahaa75#5376 a quitté la tribu.
+1536813693000:Tota1120#0000 a rejoint la tribu.
+1536807124000:Klaus#4786 a changé le message d'accueil.
+1536798735000:Klaus#4786 a changé le message d'accueil.
+1536782138000:Sweet_dragon#2781 a quitté la tribu.
+1536767824000:Klaus#4786 a changé le rang de Sarsonh4#0000 vers Moderator.
+1536767766000:Sarsonh4#0000 a rejoint la tribu.
+1536767732000:Klaus#4786 a changé le message d'accueil.
+1536766888000:Klaus#4786 a changé le message d'accueil.
+1536765944000:Klaus#4786 a changé le message d'accueil.
+1536752179000:Klaus#4786 a changé le message d'accueil.
+1536751972000:Klaus#4786 a changé le message d'accueil.
+1536751749000:Sweet_dragon#2781 a rejoint la tribu.
+1536751743000:Klaus#4786 a changé le message d'accueil.
+1536751564000:Bahaa75#5376 a rejoint la tribu.
+1536751304000:Klaus#4786 a changé le rang de You159753#0000 vers Good.
+1536751058000:Klaus#4786 a changé le message d'accueil.
+1536750970000:You159753#0000 a rejoint la tribu.
+1536750646000:Youssefhjg#0000 a quitté la tribu.
+1536750636000:Youssefhjg#0000 a rejoint la tribu.
+1536750375000:Klaus#4786 a changé le message d'accueil.
+1536748371000:Klaus#4786 a changé le message d'accueil.
+1536748218000:Klaus#4786 a changé le message d'accueil.
+1536745263000:Yasine11#0000 a rejoint la tribu.
+1536744880000:Klaus#4786 a changé le message d'accueil.
+1536744807000:Klaus#4786 a changé le message d'accueil.
+1536743580000:Klaus#4786 a changé le message d'accueil.
+1536743135000:Klaus#4786 a changé le message d'accueil.
+1536370531000:Klaus#4786 a changé le message d'accueil.
+1536370415000:Klaus#4786 a changé le message d'accueil.
+1536370394000:Klaus#4786 a changé le message d'accueil.
+1536344130000:Klaus#4786 a changé le message d'accueil.
+1535913051000:Batoollove#0000 a quitté la tribu.
+1535832038000:Batoollove#0000 a changé le code de la maison de tribu : @5042248
+1535831953000:Batoollove#0000 a changé le code de la maison de tribu : @4991271
+1535831766000:Klaus#4786 a changé le code de la maison de tribu : @3596339
+1535831214000:Klaus#4786 a changé le message d'accueil.
+1535831198000:Klaus#4786 a changé le message d'accueil.
+1535830994000:Klaus#4786 a changé le rang de Batoollove#0000 vers my love.
+1535830966000:Batoollove#0000 a rejoint la tribu.
+1531533455000:Hacker#6011 a quitté la tribu.
+1531533130000:Hacker#6011 a changé le rang de Klaus#4786 vers king this tribe.
+1531533130000:Hacker#6011 a changé le rang de Hacker#6011 vers asas.
+1530380076000:Klaus#4786 a changé le rang de Hacker#6011 vers king this tribe.
+1530380076000:Klaus#4786 a changé le rang de Klaus#4786 vers asas.
+1530374057000:Klaus#4786 a changé le rang de Hacker#6011 vers member.
+1530374035000:Hacker#6011 a changé le rang de Klaus#4786 vers king this tribe.
+1530374035000:Hacker#6011 a changé le rang de Hacker#6011 vers asas.
+1530374030000:Klaus#4786 a rejoint la tribu.
+1529182124000:Klaus#4786 a quitté la tribu.
+1529182104000:Klaus#4786 a changé le rang de Hacker#6011 vers king this tribe.
+1529182104000:Klaus#4786 a changé le rang de Klaus#4786 vers asas.
+1529182097000:Hacker#6011 a rejoint la tribu.
+1526425081000:Ganaateya#0000 a quitté la tribu.
+1526422026000:Klaus#4786 a changé le rang de Ganaateya#0000 vers Prince of Ar.
+1526422008000:Ganaateya#0000 a rejoint la tribu.
+1526421829000:Klaus#4786 a changé le code de la maison de tribu : @0
+1526421686000:Klaus#4786 a changé le code de la maison de tribu : @801
+1526418454000:Klaus#4786 a changé le message d'accueil.
+1526380381000:Nassim_sha3waza#7735 a quitté la tribu.
+1525635099000:Klaus#4786 a changé le message d'accueil.
+1525635024000:Klaus#4786 a changé le message d'accueil.
+1525634977000:Klaus#4786 a changé le message d'accueil.
+1525634961000:Klaus#4786 a changé le message d'accueil.
+1525633311000:Klaus#4786 a changé le rang de Nassim_sha3waza#7735 vers Prince of Ar.
+1525633298000:Nassim_sha3waza#7735 a rejoint la tribu.
+1525632759000:Klaus#4786 a changé le message d'accueil.
+1525632564000:Klaus#4786 a créé la tribu Common tribe !
