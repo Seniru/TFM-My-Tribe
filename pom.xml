@@ -21,7 +21,7 @@
         <dependency>
             <groupId>org.knowm.xchart</groupId>
             <artifactId>xchart</artifactId>
-            <version>3.5.4</version>
+            <version>3.6.0</version>
         </dependency>
     </dependencies>  
 </project>
